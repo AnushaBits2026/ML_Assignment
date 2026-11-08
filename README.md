@@ -68,7 +68,7 @@ The input features used in this project are:
 https://github.com/AnushaBits2026/ML_Assignment
 
 **Live Streamlit Application:**  
-Deployment pending - add your live link after deployment
+https://drybean-ml2-2026aj05149.streamlit.app/
 
 ## d. Models Used and Comparison Table
 
@@ -151,7 +151,7 @@ The Streamlit application is designed to provide an interactive interface for ev
 4. Display the evaluation metrics.
 5. Display the confusion matrix and classification report.
 
-**Live Application Link:** Deployment pending - add your live link after deployment
+**Live Application Link:** https://drybean-ml2-2026aj05149.streamlit.app/
 
 ## f. Repository Structure
 
